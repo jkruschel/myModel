@@ -38,13 +38,6 @@
 		// Instance of the model to be returned.
 		var instance = {};
 
-		// Vertex indices:							
-		//   7----6
-		//	/|   /|
-		// 4----5 |
-		// | 3--|-2
-		// |/   |/
-		// 0----1
 		instance.vertices = [
 			// deck (z=0)
 			[0,20, 0],
